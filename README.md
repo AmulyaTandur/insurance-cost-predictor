@@ -20,8 +20,7 @@ By applying machine learning, we can uncover hidden patterns in customer data an
  
 ## 📸 Some Screenshots related to project 
 
-![](https://github.com/AmulyaTandur/
-insurance-cost-predictor/main/Images/Heatmap.png)
+![Heatmap](https://raw.githubusercontent.com/AmulyaTandur/insurance-cost-predictor/main/Images/Heatmap.png)
 
 ![](https://github.com/AmulyaTandur/
 insurance-cost-predictor/main/Images/Countplot.png)
