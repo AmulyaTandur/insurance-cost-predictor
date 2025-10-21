@@ -18,20 +18,19 @@ The motivation behind this project lies in addressing the growing need for fair 
 
 By applying machine learning, we can uncover hidden patterns in customer data and predict insurance charges with greater accuracy. This not only benefits insurance companies by improving risk assessment and pricing strategies, but also ensures that customers are offered tailored packages aligned with their health profiles and lifestyle choices.
  
-## 📸 Some Screenshots related to project   ----Need to Update 
-
-Images/Countplot.png
-![](https://github.com/AmulyaTandur/
-insurance-cost-predictor/Images/Heatmap.png)
+## 📸 Some Screenshots related to project 
 
 ![](https://github.com/AmulyaTandur/
-insurance-cost-predictor/Images/Countplot.png)
+insurance-cost-predictor/main/Images/Heatmap.png)
 
 ![](https://github.com/AmulyaTandur/
-insurance-cost-predictor/Images/Violin_plot.png)
+insurance-cost-predictor/main/Images/Countplot.png)
 
 ![](https://github.com/AmulyaTandur/
-insurance-cost-predictor/blob/main/Images/deployment.png)
+insurance-cost-predictor/main/Images/Violin_plot.png)
+
+![](https://github.com/AmulyaTandur/
+insurance-cost-predictor/main/Images/deployment.png)
 
 ## ✍🏻 Workflow Design
 <ol>
