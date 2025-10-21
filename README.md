@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/23016495/README.md)
+
 <h1 align="center">Medical Insurance Cost Prediction</h1>
 
 <div align= "center">
@@ -20,14 +20,15 @@ By applying machine learning, we can uncover hidden patterns in customer data an
  
 ## 📸 Some Screenshots related to project   ----Need to Update 
 
+Images/Countplot.png
 ![](https://github.com/AmulyaTandur/
-insurance-cost-predictor/blob/main/Images/Heatmap.png)
+insurance-cost-predictor/Images/Heatmap.png)
 
 ![](https://github.com/AmulyaTandur/
-insurance-cost-predictor/blob/main/Images/Countplot.png)
+insurance-cost-predictor/Images/Countplot.png)
 
 ![](https://github.com/AmulyaTandur/
-insurance-cost-predictor/blob/main/Images/Violin_plot.png)
+insurance-cost-predictor/Images/Violin_plot.png)
 
 ![](https://github.com/AmulyaTandur/
 insurance-cost-predictor/blob/main/Images/deployment.png)
@@ -57,4 +58,4 @@ The dataset used can be downloaded from my repository .This is a modified versio
 [Amulya Tandur](https://github.com/AmulyaTandur)
 
 ## :eyes: License
-MIT © [Amulya Tandur](https://github.com/AmulyaTandur/insurance-cost-predictor/blob/main/LICENSE)
+MIT © [Amulya Tandur](https://github.com/AmulyaTandur/insurance-cost-predictor/LICENSE)
