@@ -3,8 +3,8 @@
 
 <div align= "center">
   <h4>Medical Insurance Cost Prediction using Linear Regression.</h4><br>
-  <img src=><div class="tenor-gif-embed" data-postid="19423685" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/democracyrising-our-time-now-for-our-health-healthcare-health-good-health-gif-19423685">Democracyrising Our Time Now For Our Health GIF</a>from <a href="https://tenor.com/search/democracyrising-gifs">Democracyrising GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-</div>
+![Healthcare GIF](https://media.tenor.com/images/85db8cb42e2b3b22ef44db04b935f8c5/tenor.gif)
+
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
