@@ -3,7 +3,7 @@
 
 <div align= "center">
   <h4>Medical Insurance Cost Prediction using Linear Regression.</h4><br>
-![Healthcare GIF](https://media.tenor.com/images/85db8cb42e2b3b22ef44db04b935f8c5/tenor.gif)
+![Healthcare GIF](https://media1.tenor.com/m/tLyut6K3EykAAAAd/democracyrising-our-time-now-for-our-health.gif)
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
