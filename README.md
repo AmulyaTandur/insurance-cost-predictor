@@ -1,8 +1,8 @@
-
 <h1 align="center">Medical Insurance Cost Prediction</h1>
 
 <div align= "center">
   <h4>Medical Insurance Cost Prediction using Linear Regression.</h4><br>
+  
 ![Healthcare GIF](https://media1.tenor.com/m/tLyut6K3EykAAAAd/democracyrising-our-time-now-for-our-health.gif)
 
 
