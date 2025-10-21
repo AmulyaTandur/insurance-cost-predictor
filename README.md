@@ -22,14 +22,11 @@ By applying machine learning, we can uncover hidden patterns in customer data an
 
 ![Heatmap](https://raw.githubusercontent.com/AmulyaTandur/insurance-cost-predictor/main/Images/Heatmap.png)
 
-![](https://github.com/AmulyaTandur/
-insurance-cost-predictor/main/Images/Countplot.png)
+![Countplot](https://raw.githubusercontent.com/AmulyaTandur/insurance-cost-predictor/main/Images/Countplot.png)
 
-![](https://github.com/AmulyaTandur/
-insurance-cost-predictor/main/Images/Violin_plot.png)
+![Violin Plot](https://raw.githubusercontent.com/AmulyaTandur/insurance-cost-predictor/main/Images/Violin_plot.png)
 
-![](https://github.com/AmulyaTandur/
-insurance-cost-predictor/main/Images/deployment.png)
+![Deployment Screenshot](https://raw.githubusercontent.com/AmulyaTandur/insurance-cost-predictor/main/Images/deployment.png)
 
 ## ✍🏻 Workflow Design
 <ol>
@@ -56,4 +53,4 @@ The dataset used can be downloaded from my repository .This is a modified versio
 [Amulya Tandur](https://github.com/AmulyaTandur)
 
 ## :eyes: License
-MIT © [Amulya Tandur](https://github.com/AmulyaTandur/insurance-cost-predictor/LICENSE)
+MIT © [Amulya Tandur] (https://raw.githubusercontent.com/AmulyaTandur/insurance-cost-predictor/LICENSE)
